@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod</title>
+    <link>/</link>
+    <description>Recent content on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Sep 2023 13:54:32 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Sat, 23 Sep 2023 13:54:32 +0530</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>intro Introduction: Kannan A, a 19-year-old student at Amrita University pursuing a Bachelor&amp;rsquo;s degree in Electronics and Communication, is a dynamic and multifaceted individual with a zest for life.
+Academic Pursuits: Currently enrolled in the BTech program, Kannan has demonstrated a keen interest in Electronics and Communication, showcasing a strong academic foundation and a commitment to mastering this field.
+Key Interests: Kannan&amp;rsquo;s diverse interests reflect a well-rounded personality. From programming to solving complex problems, he has an innate curiosity that drives him to seek answers.</description>
+    </item>
+    
+    <item>
+      <title>second post</title>
+      <link>/posts/second/</link>
+      <pubDate>Sat, 23 Sep 2023 13:54:32 +0530</pubDate>
+      
+      <guid>/posts/second/</guid>
+      <description>this is the second post</description>
+    </item>
+    
+  </channel>
+</rss>
